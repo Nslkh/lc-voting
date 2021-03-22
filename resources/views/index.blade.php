@@ -41,6 +41,20 @@
           <button class="w-20 bg-gray-200 border border-gray-200 hover:border-gray-400 font-bold text-xxs uppercase rounded-xl transition duration-150 ease-in px-4 py-3">Votes</button>
         </div>
       </div>
+
+      <div class="flex px-2 py-6">
+      <a href="#" class="flex-none">
+        <img src="https://source.unsplash.com/200x200/?face&crop=face&v=1" alt="avatar" class="w-14 h-14 rounded-xl">
+      </a>
+        <div class="mx-4">
+          <h4 class="text-xl font-semobold">
+            <a href="#" class="hover:underline">A random title can go here</a>
+          </h4>
+          <div class="text-gray-600 mt-3">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt esse voluptatum delectus ratione temporibus officiis possimus perferendis reiciendis incidunt autem architecto ex, fugiat doloremque aut inventore tempora quis odio quasi.
+          </div>
+        </div>
+      </div>
     </div>  <!--end ideas-container -->
   </div> <!-- end ideas-container -->
 </x-app-layout>
