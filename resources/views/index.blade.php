@@ -53,6 +53,22 @@
           <div class="text-gray-600 mt-3">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt esse voluptatum delectus ratione temporibus officiis possimus perferendis reiciendis incidunt autem architecto ex, fugiat doloremque aut inventore tempora quis odio quasi.
           </div>
+
+          <div class="flex items-center justify-between mt-6">
+            <div class="flex items-center text-xs text-gray-400 font-semibold space-x-2">
+              <div>10 hours ago</div>
+              <div>&bull;</div>
+              <div>Category 1</div>
+              <div>&bull;</div>
+              <div class="text-gray-900">3 Comments</div>
+            </div>
+            <div class="flex items-center space-x-2">
+              <div class="bg-gray-200 text-xxs font-bold uppercase leading-none rounded-full text-center w-28 h-7 py-2 px-4">Open</div>
+              <button class="bg-gray-100 hover:bg-gray-200 rounded-full h-7  transition duration-150 ease-in py-2 px-3">
+                <svg fill="currentColor" width="24" height="6"><path d="M2.97.061A2.969 2.969 0 000 3.031 2.968 2.968 0 002.97 6a2.97 2.97 0 100-5.94zm9.184 0a2.97 2.97 0 100 5.939 2.97 2.97 0 100-5.939zm8.877 0a2.97 2.97 0 10-.003 5.94A2.97 2.97 0 0021.03.06z" style="color: rgba(163, 163, 163, .5)"></svg>
+              </button>
+            </div>
+          </div>
         </div>
       </div>
     </div>  <!--end ideas-container -->
